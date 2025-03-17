@@ -1,0 +1,20 @@
+GUI Mode:  Launch a graphical interface for intuitive spreadsheet manipulation.
+MOD and SQRT Functions: Use the MOD and SQRT functions to perform calculations on your data.
+Search Functionality: Quickly find specific data within your spreadsheet using the search feature.
+Custom Cell Styles: Change the style and color of cells to highlight important information.
+Export to excel: Export the spreadsheet data to an Excel file for further analysis.
+Tests: Tests the spreadsheet input and output to ensure data accuracy.
+Errors index: Provides a detailed index of potential errors and issues that could arise during spreadsheet manipulation.
+
+EXPLANATION OF BIG EXPANSIONS:
+
+GUI Mode: The GUI mode will allow users to interact with the spreadsheet in a more
+intuitive way. In the gui, the user chooses the number of rows and columns they want in the spreadsheet, and a name for the sheet.
+The user can then input data into the cells and manipulate the data as needed, using a toolbar with many options
+of saving and editing.
+
+Search Functionality: The search functionality will allow users to search for specific data within the spreadsheet.
+The user can input a search term, and the program will highlight the cells that contain the search term.
+
+MOD and SQRT Functions: Two more functions have been added to the spreadsheet: MOD: modulo function,
+and SQRT: square root function.
